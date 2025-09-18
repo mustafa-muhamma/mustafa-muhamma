@@ -75,20 +75,20 @@
 ---
 
 ## 📊 GitHub Stats
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-muhamma&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-muhamma&layout=compact&theme=radical)
+
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/mustafa-muhammad-6370b821b(#)  
-- GitHub: https://github.com/mustafa-muhamma(#)  
+- LinkedIn: [www.linkedin.com/in/mustafa-muhammad-6370b821b](#)  
+- GitHub: [https://github.com/mustafa-muhamma](#)  
 - Email: mustafamuhammadert31@gmail.com
 
 ---
 
-⭐️ *Always curious to learn, build, and share knowledge with the dev community.*  
-(#)  
+⭐️ *Always curious to learn, build, and share knowledge with the dev community.*    
 - Email: mustafamuhammadert31@gmail.com
 
 ---
