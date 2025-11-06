@@ -16,8 +16,8 @@
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript (ES6+), HTML5, CSS3  
 - **Frontend Frameworks:** React.js, Next.js  
-- **State Management:** Context API, Redux  
-- **Styling:** Tailwind CSS, Bootstrap  
+- **State Management:** Context API, Redux  , Zustand , React Query
+- **Styling:** Tailwind CSS, Bootstrap  , Shadcn
 - **Tools & Others:** Git, GitHub, VS Code, REST APIs, Axios, npm  
 - **Concepts:** OOP, Data Structures, Clean Code  
 
