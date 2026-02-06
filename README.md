@@ -40,7 +40,6 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/mustafa-muhammad-6370b821b](https://www.linkedin.com/in/mustafa-muhammad-6370b821b)  
-- GitHub: [github.com/mustafa-muhamma](https://github.com/mustafa-muhamma)  
 - Email: **mustafamuhammadert31@gmail.com**
 
 ---
